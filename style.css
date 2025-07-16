@@ -359,8 +359,8 @@ article .icon {
 }
 
 .color-container {
-  border-color: rgb(163, 163, 163);
-  background: rgb(163, 163, 163);
+  border-color: black;
+  background: #f8f9fa;
 }
 
 .project-img {
